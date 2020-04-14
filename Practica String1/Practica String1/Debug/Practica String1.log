@@ -1,0 +1,14 @@
+﻿  Practica String1.cpp
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(47,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(54,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(239,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(253,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(293,17): warning C4129: '|': secuencia de escape de carácter no reconocida
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(298,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(299,27): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(308,11): warning C4101: 'pch': variable local sin referencia
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(369,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(404,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(525,23): warning C4018: '<': no coinciden signed/unsigned
+F:\San Pablo\Algebra Abstracta\Practica String1\Practica String1\Practica String1.cpp(584,23): warning C4018: '<': no coinciden signed/unsigned
+  Practica String1.vcxproj -> F:\San Pablo\Algebra Abstracta\Practica String1\Debug\Practica String1.exe
